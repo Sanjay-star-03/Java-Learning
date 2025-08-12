@@ -1,4 +1,4 @@
-public class FitnessTracker {
+public class Fitnesstracker {
 public static void main(String[]args){
 
  String username ="Sanjay";
