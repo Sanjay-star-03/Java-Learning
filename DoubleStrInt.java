@@ -9,8 +9,8 @@ public class DoubleStrInt {
     public static void main(String[] args) {
         int DoubleStrInt = PlusMethod(25,25,25);
         int DoubleStrInt2 = MinusMethod(50,20);
-        System.out.println("int :"+DoubleStrInt);
-        System.out.println("int :"+DoubleStrInt2);
+        System.out.println("plus :"+DoubleStrInt);
+        System.out.println("minus :"+DoubleStrInt2);
     }
 }
 
